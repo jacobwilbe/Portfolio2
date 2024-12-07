@@ -34,7 +34,7 @@ export default function Home() {
             Jacob Wilber
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground mb-8">
-            AI & Robotics Specialist | Software Engineer
+            AI/Machine Learning Researcher | Software Engineer
           </p>
           <div className="flex gap-4 justify-center mb-12">
             <Button onClick={() => window.open("https://github.com/jacobwilbe", "_blank")} variant="outline" size="icon" className="rounded-full hover:scale-110 transition-transform">
