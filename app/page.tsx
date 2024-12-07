@@ -138,7 +138,7 @@ export default function Home() {
                   "Implemented Stripe-based pricing tiers",
                   "Feature-rich flashcard generation system"
                 ]}
-                videoUrl="/videos/demo2.mp4"
+                videoUrl="/demo2.mp4"
                 githubUrl="https://github.com/jacobwilbe/flashcard-saas"
               />
               <ProjectCard
@@ -150,7 +150,7 @@ export default function Home() {
                   "Integrated OpenAI for context-aware responses",
                   "Used RAG for enhanced accuracy"
                 ]}
-                videoUrl="/videos/demo3.mp4"
+                videoUrl="/demo3.mp4"
                 githubUrl="https://github.com/jacobwilbe/rmp-rag-agent"
               />
               <ProjectCard
@@ -162,7 +162,7 @@ export default function Home() {
                   "Implemented Firebase authentication",
                   "Real-time inventory tracking"
                 ]}
-                videoUrl="/videos/demo1.mp4"
+                videoUrl="/demo1.mp4"
                 githubUrl="https://github.com/jacobwilbe/inventory-management-app"
               />
             </div>
