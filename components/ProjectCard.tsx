@@ -55,8 +55,6 @@ export function ProjectCard({
                   className="w-full h-full rounded-lg border"
                   controls
                 >
-                  <source src={videoUrl} type="video/mp4" />
-                  Your browser does not support the video tag.
                 </video>
               </div>
             </DialogContent>
